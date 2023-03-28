@@ -4,7 +4,7 @@ Criado para estudos e aperfeiçoamento na linguagem Python.
 
 Para instalar os arquivos necessários, utilize:
 
-`pip install openai`
+`pip install openai` </br>
 `pip install gradio`
 
 Link para criar suas APIs: 
