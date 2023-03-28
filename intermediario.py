@@ -3,6 +3,7 @@ import openai
 openai.api_key = "##Sua api com a openai##"
 
 messages = []
+# Descreva aqui como que você quer que ele seja. Rude, gentil, direto, amigável...
 system_msg = input("Que tipo de chatbot você quer criar?\n")
 messages.append({"role": "system", "content": system_msg})
 
