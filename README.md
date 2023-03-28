@@ -4,11 +4,11 @@ Criado para estudos e aperfeiçoamento na linguagem Python.
 
 Para instalar os arquivos necessários, utilize:
 
-``pip install openai``
+`pip install openai`
 
 Link para criar suas APIs: 
 
-``https://platform.openai.com/docs/introduction``
+`https://platform.openai.com/docs/introduction`
 
 São 3 modelos de de arquivos, o básico responde você no console e encerra. </br>
 O intermediário, você conversa com o mesmo via terminal do próprio VScode. </br>
