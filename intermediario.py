@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "##Sua api com a openai##"
+openai.api_key = ""
 
 messages = []
 # Descreva aqui como que você quer que ele seja. Rude, gentil, direto, amigável...
